@@ -28,4 +28,5 @@ The analysis was carried out in several steps, using a combination of techniques
 ## Which files I used for this project?
 * html file to examine my personal spotify data (I used it by web scraping)
 * json files to examine my personal spotify data
+* jupyter notebook to write my codes
 * website to present my data
